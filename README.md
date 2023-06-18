@@ -1,6 +1,6 @@
 # Authors
 [<img align="left" width="50px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72227999/246673026-44eca0ae-3020-4041-86f4-778f7236e3dc.svg">](https://twitter.com/0x4427/)
-[<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg">](https://linkedin.com/0x4427/)
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/72227999/246673032-6ab6cd40-918e-429f-9905-c93750dfa35c.svg">](https://linkedin.com/0x4427/)
 
 
 - 0x4427 - [Twitter](https://twitter.com/0x4427/) | [LinkedIn](https://www.linkedin.com/in/varun-singh-5944b9222/) | [Github](https://github.com/0x4427/)
