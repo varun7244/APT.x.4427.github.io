@@ -1,5 +1,5 @@
 # Authors
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Twitter.svg">](https://twitter.com/0x4427/)
+[<img align="left" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Twitter.svg">](https://twitter.com/0x4427/)
 [<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg">](https://linkedin.com/0x4427/)
 
 
