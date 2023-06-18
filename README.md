@@ -5,10 +5,6 @@
 [<img align="left" width="50px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72227999/246673032-6ab6cd40-918e-429f-9905-c93750dfa35c.svg">](https://linkedin.com/0x4427/)
 [<img align="left" width="55px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72227999/246673029-1380eb15-d262-40e6-928f-1321a9338e41.svg">](https://github.com/0x4427/)
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ### knight0x07
 
